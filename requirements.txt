@@ -1,0 +1,9 @@
+streamlit
+torch
+joblib
+numpy
+osmnx
+networkx
+folium
+streamlit-folium
+scikit-learn
